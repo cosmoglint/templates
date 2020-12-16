@@ -27,6 +27,7 @@ function init(){
 }
 
 function setup(){
+  pixelDensity(2);
   init();
 }
 
